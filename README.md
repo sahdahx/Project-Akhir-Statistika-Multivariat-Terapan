@@ -1,5 +1,4 @@
 # Analisis Multivariat Indeks Kebahagiaan Indonesia  
-## Project Akhir Statistika Multivariat Terapan
 
 Proyek ini bertujuan untuk menganalisis **Indeks Kebahagiaan Indonesia (IKI)** menggunakan pendekatan statistika multivariat, khususnya **Principal Component Analysis (PCA)** dan **Hierarchical Clustering**. Analisis dilakukan untuk mengidentifikasi struktur laten indikator kebahagiaan serta memetakan provinsi di Indonesia berdasarkan tingkat kebahagiaan masyarakat.
 

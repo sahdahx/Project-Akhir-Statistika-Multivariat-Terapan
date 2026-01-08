@@ -91,4 +91,4 @@ Universitas Gadjah Mada, Sleman, Indonesia
 
 ## 🔑 Keywords
 
-Indeks Kebahagiaan, Statistika Multivariat, PCA, Clustering, Hier
+Indeks Kebahagiaan, Statistika Multivariat, PCA, Clustering, Hierarchical Clustering, Provinsi Indonesia

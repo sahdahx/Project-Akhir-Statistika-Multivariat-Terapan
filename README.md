@@ -69,6 +69,18 @@ Hasil ini memberikan pemetaan kebahagiaan yang lebih holistik dan dapat menjadi 
 
 ---
 
+## 🖼 Image Overview
+
+![Slide 1](img/1.png)  
+
+![Slide 2](img/2.png)  
+
+![Slide 3](img/3.png)  
+
+![Slide 4](img/4.png)  
+
+---
+
 ## 👩‍🎓 Authors
 
 - Sahda Huwaidah Estiningtyas 
